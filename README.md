@@ -4,6 +4,8 @@ An AI-powered interactive mirror that combines computer vision, hand tracking,
 gesture interaction, and real-time visual effects to create an immersive
 AR-style experience.
 
+![image alt](https://github.com/shivamkumarspl12-debug/MagicMirrorAI/blob/4b2dc03fcf13eacea2559e753116960a1777398a/magicmirror-banner.png.png)
+
 ## 🚀 Project Overview
 
 MagicMirrorAI uses a webcam to track hand movements in real time and allows
