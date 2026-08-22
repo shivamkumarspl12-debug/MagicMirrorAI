@@ -1,5 +1,3 @@
-# MagicMirrorAI
-AI-powered interactive mirror using Python, OpenCV, and MediaPipe with real-time hand tracking, gesture-controlled portals, invisibility effects, and visual filters.
 # 🪄 MagicMirrorAI
 
 An AI-powered interactive mirror that combines computer vision, hand tracking,
